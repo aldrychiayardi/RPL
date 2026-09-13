@@ -158,5 +158,3 @@ Aplikasi telah dilengkapi dengan data *pre-seeded* untuk demonstrasi langsung:
 - **Portal Kurir & Hub (Scanner)**: `http://localhost:3000/dashboard/courier`
 - **Dashboard Admin & Analitik**: `http://localhost:3000/dashboard/admin`
 
----
-*Dibuat untuk memenuhi tugas Rekayasa Perangkat Lunak — Semester 3.*
